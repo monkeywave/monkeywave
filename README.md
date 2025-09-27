@@ -4,6 +4,7 @@ I'm a mobile security researcher passionate about automating and optimizing reve
 
 🔭 **What I’m currently working on:**  
 - [friTap](https://github.com/fkie-cad/friTap) — A powerful tool to facilitate network decryption for (mobile) apps.
+- [Sandroid](https://github.com/fkie-cad/sandroid_core) - An Android Sandbox for Automated Forensic, Malware, and Security Analysis 
 
   
 🌱 I’m constantly learning and exploring new ways to simplify TLS and end-to-end (E2E) decryption.  
