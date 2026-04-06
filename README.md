@@ -9,6 +9,6 @@ I'm a mobile security researcher passionate about automating and optimizing reve
   
 I’m constantly learning and exploring new ways to simplify TLS and end-to-end (E2E) decryption.  
 My mission is to make security analysis more accessible, reduce the barriers to entry, and contribute to a safer, more secure world.
-I’m always open to collaborating on cool new ideas related to mobile app analysis!  
+I’m always open to collaborating on cool new ideas related to mobile app analysis and memory forensics!  
 
 If you’d like to support my work, help me develop more tools, and contribute to a more transparent security landscape, feel free to [**buy me a coffee**](https://buymeacoffee.com/monkeywave) — every bit fuels the mission! 
